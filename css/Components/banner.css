@@ -1,0 +1,31 @@
+
+
+
+.banner {
+	background-color: #E4DCCF;
+	padding: 90px;
+	background-position: center;
+	background-size: cover;
+	text-align: center;
+	margin: 0;
+}
+
+
+
+
+.banner-2 {
+	background-color: #D8AC9C;
+	text-align: center;
+}
+
+.banner-3 {
+	background-color: #E4DCCF;
+	text-align: left;
+}
+
+.banner-4 {
+	background-color: #D8AC9C;
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+}

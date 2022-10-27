@@ -1,0 +1,89 @@
+@import url("Components/btn-white.css");
+@import url("Components/header.css");
+@import url("Components/banner.css");
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Righteous&family=Yantramanav:wght@100&display=swap');
+@import url("Components/page-name.css");
+@import url("Components/page-top.css");
+@import url("Components/carousel-items.css");
+@import url("Components/carousel-item.css");
+
+
+@import url("Components/card-bijoux.css");
+@import url("Components/card-content.css");
+@import url("Components/card-gradient.css");
+@import url("Components/cards.css");
+@import url("Components/banner-content.css");
+@import url("Components/carousel.css");
+@import url("Components/card-grid.css");
+@import url("Components/btn-pink.css");
+@import url("Components/card-footer.css");
+@import url("Components/form.css");
+@import url("Components/btn-submit.css");
+
+
+
+
+
+body	{
+	font-family: 'Yantramanav', sans-serif;
+	margin: 0;
+}
+
+
+h1	{
+	color: #E4DCCF;
+	font-size:80px;
+	font-family: 'Abril Fatface';
+	padding: 12px, 24px;
+}
+
+h2	{
+	color: black;
+	font-size: 20px;
+	font-family: 'Yantramanav', sans-serif;
+	padding: 12px, 24px;
+}
+
+h3	{
+	color: #D8AC9C;
+	font-size: 50px;
+	font-family:'Abril Fatface';
+	padding: 12px, 24px;
+}
+
+h4	{
+	color: #E4DCCF;
+	font-size: 50px;
+	font-family: 'Abril Fatface';
+	text-align: center;
+	margin: 0 auto;
+	padding-top: 4px;
+}
+
+h5 {
+	color: #D8AC9C;
+	font-size: 50px;
+	font-family: 'Abril Fatface';
+	text-align: center;
+	margin: 0 auto;
+	padding-top: 4px;
+}
+
+h6 {
+	color: black;
+	font-size: 50px;
+	font-family: 'Abril Fatface';
+	text-align: center;
+	margin: 0 auto;
+	padding-top: 4px;
+}
+
+h7 {
+
+}
+
+p {
+	font-family: 'Yantramanav', sans-serif;
+	color: #E4DCCF;
+	font-size: 25px;
+}

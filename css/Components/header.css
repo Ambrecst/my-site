@@ -1,0 +1,11 @@
+.header {
+	display: flex;
+	height: 90px;
+	padding: 8px 8px 44px 8px;
+	margin: 0 auto;
+	align-items: center;
+	justify-content: space-between;
+	flex-wrap: wrap;
+	background-color: #D8AC9C;
+	color:  white;
+}

@@ -1,0 +1,28 @@
+
+
+#card-footer {
+	display: inline;
+	text-decoration: none;
+	font-size: 20px;
+	margin-top:  2px;
+	margin-bottom: 2px;
+	color: #E4DCCF; 
+	padding: 6px;
+	margin-right: 50px;
+}
+
+#card-footer li {
+	list-style: none;
+}
+
+#footer-title {
+	text-align: center;
+	padding: 4px;
+	background-color: #D8AC9C;
+	margin: 0px;
+	font-size: 35px;
+}
+
+#newsletter {
+	font-size: 25px;
+}

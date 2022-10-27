@@ -1,0 +1,19 @@
+.btn-white {
+	text-decoration: none;
+	color: white;
+	padding: 12px 32px;
+	background-color: #D8AC9C;
+	border-radius: 8px;
+	font-weight: 500;
+	margin: 8px;
+	border: solid 2px #E4DCCF;
+	font-size: 20px;
+	font-size: 15px;
+}
+
+.btn-white:hover {
+	background-color: #E4DCCF;
+	color: #D8AC9C;
+	border: solid 2px #D8AC9C;
+}
+

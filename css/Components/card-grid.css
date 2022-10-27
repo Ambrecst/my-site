@@ -1,0 +1,20 @@
+.card-grid {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+}
+
+.card-grid-2 {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+	flex-grow: 1;
+	align-items: center;
+	padding: 0 auto;
+	list-style: none;
+	background-color: #E4DCCF;
+}
+
+.card-grid-2 a {
+	text-decoration: none;
+}
